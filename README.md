@@ -98,5 +98,4 @@ docker-compose up --build
 - [ChromaDB](https://www.trychroma.com/)
 - [OpenAI Python](https://github.com/openai/openai-python)
 - [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/)
-- Created by Uday Garg
-- [LinkedIn](https://www.linkedin.com/in/uday-garg-45b611280/)
+- Created by Uday Garg [LinkedIn](https://www.linkedin.com/in/uday-garg-45b611280/)
